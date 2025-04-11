@@ -35,6 +35,7 @@ pie
     "接受原假设" : 5
 ```
 实验结果：
+
 ![image](https://github.com/user-attachments/assets/ff579577-dbe0-4ea8-8f4b-ac433d7ddd5c)
 
 
